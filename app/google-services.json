@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599580983239",
+    "project_id": "help-us-9b55b",
+    "storage_bucket": "help-us-9b55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599580983239:android:cd6f4d46dcf81f07ab63e2",
+        "android_client_info": {
+          "package_name": "in.creativelizard.helpus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599580983239-ufnbo8fju5cs8nj7vt75kg99udfct4dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1kBTpsw07_E_o2Mv1ML3pDm5aJEG2g4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599580983239-ufnbo8fju5cs8nj7vt75kg99udfct4dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

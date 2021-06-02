@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Help Us</string>
+    <string name="donate">Donate</string>
+    <string name="amount_rs">Amount (Rs)</string>
+    <string name="your_number">Your Number</string>
+    <string name="your_name">Your Name</string>
+    <string name="donation_note">Donation Note</string>
+    <string name="help_us">Help Us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upi_address">Sender UPI address to pay them money</string>
+    <string name="title_fund">Raised fund for XXX</string>
+    <string name="description">Raising fund to help people in storm destraction</string>
+    <string name="contribute">Contribute</string>
+</resources>
